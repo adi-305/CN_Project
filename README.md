@@ -9,7 +9,7 @@ In today's fast-paced digital world, instant communication is a fundamental aspe
 - **Client**: Connects to the server, allows users to create a personalized username, send and receive messages, engage in private conversations, request chat history, and measure Round-Trip Time (RTT) for network performance.
 
 ## Architecture
-![Architecture Diagram](https://d3i71xaburhd42.cloudfront.net/e610e082f875a5d76dd72adc1e6a47a58fd5ceeb/3-Figure4-1.png)
+![Architecture Diagram](https://d3i71xaburhd42.cloudfront.net/e610e082f875a5d76dd72adc1e6a47a58fd5ceeb/500px/3-Figure4-1.png)
 
 ## Features
 - **Real-time Chat**: Multiple clients can interact with each other in real-time.
