@@ -21,7 +21,7 @@ In today's fast-paced digital world, instant communication is a fundamental aspe
 ## Installation
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/yourusername/chat-application.git
+git clone https://github.com/adi-305/CN_Project.git
 cd chat-application
 ```
 
