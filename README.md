@@ -41,3 +41,9 @@ gcc client.c -o client -lpthread
 ```bash
 ./client
 ```
+## Usage
+To run the application, use Streamlit:
+```bash
+streamlit run app.py
+```
+
